@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Kavanagh</h1>
+<h1 align="center">Hey there, I'm Alex Kavanagh</h1>
 <h3 align="center">I am currently studying Information Technology at the South-East Technological University</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS, SQL**
