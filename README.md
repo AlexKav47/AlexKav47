@@ -47,7 +47,7 @@
   </a>
 
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-    <img src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
   
 </p>
