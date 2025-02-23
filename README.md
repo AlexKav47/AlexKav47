@@ -16,4 +16,4 @@
 
   <a href="https://www.java.com](https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="java" width="40" height="40"/> </a> 
 
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> </a>  </p>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="mysql" width="40" height="40"/> </a>  </p>
