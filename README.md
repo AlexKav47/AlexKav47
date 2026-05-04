@@ -21,17 +21,11 @@
 
 ### Connect with Me
 
-### Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/alex-kavanagh-a65729180/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
   &nbsp;
-  <a href="https://www.behance.net/alexkavanagh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" width="45" height="45" />
-  </a>
-</p>
 
 ---
 
