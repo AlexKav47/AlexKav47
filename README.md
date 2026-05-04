@@ -21,12 +21,15 @@
 
 ### Connect with Me
 
-<p align="left">
+### Connect with Me
+
+<p align="center">
   <a href="https://linkedin.com/in/alex-kavanagh-a65729180/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
+  &nbsp;
   <a href="https://www.behance.net/alexkavanagh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="35" width="45" />
+    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" width="45" height="45" />
   </a>
 </p>
 
