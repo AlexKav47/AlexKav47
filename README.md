@@ -34,7 +34,8 @@
   <a href="https://linkedin.com/in/alex-kavanagh-a65729180/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
-   <a href="alexkav47@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:alexkav47@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45" />
   </a>
 </p>
