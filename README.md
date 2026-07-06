@@ -16,7 +16,6 @@
 * Background in **Information Technology Management**
 * Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
 * Currently improving my skills in **Python, Docker, Flask, React, AWS, and Linux**
-* Reach me at **[alexkav47@gmail.com](mailto:alexkav47@gmail.com)**
 
 ---
 
@@ -34,6 +33,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/alex-kavanagh-a65729180/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+   <a href="alexkav47@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45" />
   </a>
 </p>
 
