@@ -43,6 +43,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,python,flask,docker,linux,aws,java,c,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,python,flask,docker,linux,aws,java,c,mysql,git,github,vscode,blender,godot," />
   </a>
 </p>
