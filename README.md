@@ -1,5 +1,3 @@
-<h1 align="center">Hey there, I'm Alex Kavanagh</h1>
-
 <h3 align="center">
   Intern at Walton Institute
 </h3>
