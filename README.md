@@ -1,21 +1,31 @@
 <h1 align="center">Hey there, I'm Alex Kavanagh</h1>
 
 <h3 align="center">
-  Information Technology Management student at South East Technological University
+  Intern at Walton Institute
 </h3>
 
 <p align="center">
-  I'm currently building my skills in cloud computing, Docker, Python, and full-stack development.
+  I'm currently developing my skills in software development, cloud computing, Docker, Python, and full-stack technologies.
 </p>
 
 ---
 
 ### About Me
 
-- Studying **Information Technology Management** at **South East Technological University**
-- Interested in **Cloud Computing, DevOps, Web Development, Databases, and Cybersecurity**
-- Currently learning **Python, Docker, AWS, and Linux**
-- Reach me at **alexkav47@gmail.com**
+* Currently working as an **Intern at Walton Institute**
+* Background in **Information Technology Management**
+* Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
+* Currently improving my skills in **Python, Docker, Flask, React, AWS, and Linux**
+* Reach me at **[alexkav47@gmail.com](mailto:alexkav47@gmail.com)**
+
+---
+
+### Current Focus
+
+* Building practical experience in a professional research and development environment
+* Improving my full-stack development skills
+* Learning more about backend integration, APIs, and deployment workflows
+* Developing clean, maintainable, and reusable code
 
 ---
 
@@ -25,15 +35,14 @@
   <a href="https://linkedin.com/in/alex-kavanagh-a65729180/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
   </a>
-  &nbsp;
+</p>
 
 ---
 
 ### Languages and Tools
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,python,java,c,javascript,html,css,mysql,vscode,blender,git,react,godot" />
+    <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,python,flask,docker,linux,aws,java,c,mysql,git,github,vscode" />
   </a>
 </p>
