@@ -13,7 +13,7 @@
 * Currently working as an **Intern at Walton Institute**
 * Background in **Information Technology Management**
 * Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
-* Currently improving my skills in **Python, Docker, Flask, React, AWS, and Linux**
+* Currently improving my skills in **Python, Docker, Flask, React, AWS, Go, Linux**
 
 ---
 
