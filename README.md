@@ -34,16 +34,15 @@
 
 ---
 
-### Featured Projects
+### Projects
 
-#### [Ansible Nginx Setup](https://github.com/AlexKav47/ansible-nginx-setup)
+- **[ArchiveDesk](ARCHIVEDESK_REPOSITORY_URL)**  
+  A released desktop application for organizing and managing archived files.  
+  `Add your ArchiveDesk technologies here` · [Download release](ARCHIVEDESK_RELEASE_URL)
 
-[![Ansible Lint](https://github.com/AlexKav47/ansible-nginx-setup/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/AlexKav47/ansible-nginx-setup/actions/workflows/ansible-lint.yml)
-
-An idempotent Ansible playbook that installs Nginx, deploys a custom Jinja webpage, manages the service, and verifies that the website responds successfully.
-
-**Technologies:** Ansible · YAML · Jinja2 · Nginx · Linux · GitHub Actions
-
+- **[Ansible Nginx Setup](https://github.com/AlexKav47/ansible-nginx-setup)**  
+  An idempotent Ansible playbook that installs Nginx, deploys a custom webpage, and verifies the deployment.  
+  `Ansible` · `YAML` · `Jinja2` · `Nginx` · `GitHub Actions`
 ---
 
 ### Connect with Me
