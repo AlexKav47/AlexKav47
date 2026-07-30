@@ -71,33 +71,33 @@
 
 <h3 align="center">Skills & Technologies</h3>
 
-<table align="center" width="100%">
+<table align="center" width="900">
   <tr>
     <th colspan="5" align="center">Languages & Markup</th>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python">
       <br>
       <sub><strong>Python</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=go" width="42" alt="Go">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=go" width="52" alt="Go">
       <br>
       <sub><strong>Go</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript">
       <br>
       <sub><strong>JavaScript</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML">
       <br>
       <sub><strong>HTML</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS">
       <br>
       <sub><strong>CSS</strong></sub>
     </td>
@@ -107,28 +107,28 @@
     <th colspan="5" align="center">Frameworks, Templates & Engines</th>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="42" alt="Flask">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="52" alt="Flask">
       <br>
       <sub><strong>Flask</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="42" alt="React">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="52" alt="React">
       <br>
       <sub><strong>React</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.simpleicons.org/jinja/B41717" width="42" height="42" alt="Jinja2">
+    <td width="180" align="center">
+      <img src="https://cdn.simpleicons.org/jinja/B41717" width="52" height="52" alt="Jinja2">
       <br>
       <sub><strong>Jinja2</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=godot" width="42" alt="Godot">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=godot" width="52" alt="Godot">
       <br>
       <sub><strong>Godot</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.simpleicons.org/yaml/CB171E" width="42" height="42" alt="YAML">
+    <td width="180" align="center">
+      <img src="https://cdn.simpleicons.org/yaml/CB171E" width="52" height="52" alt="YAML">
       <br>
       <sub><strong>YAML</strong></sub>
     </td>
@@ -138,28 +138,28 @@
     <th colspan="5" align="center">Cloud & DevOps</th>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="52" alt="AWS">
       <br>
       <sub><strong>AWS</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="52" alt="Docker">
       <br>
       <sub><strong>Docker</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=ansible" width="42" alt="Ansible">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=ansible" width="52" alt="Ansible">
       <br>
       <sub><strong>Ansible</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" width="52" alt="Nginx">
       <br>
       <sub><strong>Nginx</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="GitHub Actions">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="52" alt="GitHub Actions">
       <br>
       <sub><strong>GitHub Actions</strong></sub>
     </td>
@@ -169,28 +169,28 @@
     <th colspan="5" align="center">Tools & Platforms</th>
   </tr>
   <tr>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="52" alt="Linux">
       <br>
       <sub><strong>Linux</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git">
       <br>
       <sub><strong>Git</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub">
       <br>
       <sub><strong>GitHub</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="42" alt="Visual Studio Code">
+    <td width="180" align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="Visual Studio Code">
       <br>
       <sub><strong>VS Code</strong></sub>
     </td>
-    <td width="20%" align="center">
-      <img src="https://cdn.simpleicons.org/aseprite/7D929E" width="42" height="42" alt="Aseprite">
+    <td width="180" align="center">
+      <img src="https://cdn.simpleicons.org/aseprite/7D929E" width="52" height="52" alt="Aseprite">
       <br>
       <sub><strong>Aseprite</strong></sub>
     </td>
