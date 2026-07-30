@@ -19,31 +19,39 @@
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/AlexKav47/ArchiveDesk">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AlexKav47&repo=ArchiveDesk&theme=transparent&border_radius=10"
-      alt="ArchiveDesk"
-    />
-  </a>
-  <a href="https://github.com/AlexKav47/ansible-nginx-setup">
-    <img
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AlexKav47&repo=ansible-nginx-setup&theme=transparent&border_radius=10"
-      alt="Ansible Nginx Setup"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AlexKav47/ArchiveDesk/releases/latest">
-    <img
-      src="https://img.shields.io/github/v/release/AlexKav47/ArchiveDesk?style=for-the-badge&label=Download%20ArchiveDesk&color=238636"
-      alt="Download ArchiveDesk"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗄️ ArchiveDesk</h3>
+      <p align="center"><strong>Released desktop application</strong></p>
+      <p>
+        A desktop application for organizing and managing archived files.
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlexKav47/ArchiveDesk"><strong>View Repository</strong></a>
+        ·
+        <a href="https://github.com/AlexKav47/ArchiveDesk/releases/latest"><strong>Download Release</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Ansible Nginx Setup</h3>
+      <p align="center"><strong>Infrastructure automation</strong></p>
+      <p>
+        An idempotent Ansible playbook that installs Nginx, deploys a
+        custom webpage, and verifies the deployment.
+      </p>
+      <p align="center">
+        <code>Ansible</code>
+        <code>YAML</code>
+        <code>Jinja2</code>
+        <code>Nginx</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlexKav47/ansible-nginx-setup"><strong>View Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
