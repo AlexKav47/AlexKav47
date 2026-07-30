@@ -1,19 +1,45 @@
+<h1 align="center">Hi, I'm Alex Kavanagh</h1>
+
 <h3 align="center">
-  Intern at Walton Institute
+  Software Developer | Cloud & DevOps Enthusiast
 </h3>
 
 <p align="center">
-  I'm currently developing my skills in software development, cloud computing, Docker, Python, and full-stack technologies.
+  Intern at <strong>Walton Institute</strong> with a background in
+  <strong>Information Technology Management</strong>.
+</p>
+
+<p align="center">
+  I enjoy building practical applications, exploring cloud technologies,
+  and creating clean, maintainable software.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alex-kavanagh-a65729180/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:alexkav47@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 </p>
 
 ---
 
 ### About Me
 
-- Currently working as an **Intern at Walton Institute**
+- Currently gaining professional research and development experience at **Walton Institute**
 - Background in **Information Technology Management**
-- Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
-- Currently improving my skills in **Python, Docker, Ansible, Flask, React, AWS, Go, and Linux**
+- Building projects involving **software development, cloud computing, DevOps, and full-stack technologies**
+- Improving my knowledge of **backend integration, APIs, and deployment workflows**
+- Interested in **databases, cybersecurity, Linux, and infrastructure automation**
+- Focused on writing **clean, maintainable, and reusable code**
 
 ---
 
