@@ -17,6 +17,36 @@
 
 ---
 
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AlexKav47/ArchiveDesk">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AlexKav47&repo=ArchiveDesk&theme=transparent&border_radius=10"
+      alt="ArchiveDesk"
+    />
+  </a>
+  <a href="https://github.com/AlexKav47/ansible-nginx-setup">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AlexKav47&repo=ansible-nginx-setup&theme=transparent&border_radius=10"
+      alt="Ansible Nginx Setup"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlexKav47/ArchiveDesk/releases/latest">
+    <img
+      src="https://img.shields.io/github/v/release/AlexKav47/ArchiveDesk?style=for-the-badge&label=Download%20ArchiveDesk&color=238636"
+      alt="Download ArchiveDesk"
+    />
+  </a>
+</p>
+
+---
+
 ### Skills & Technologies
 
 <p align="center">
@@ -32,17 +62,6 @@
 - Learning more about backend integration, APIs, and deployment workflows
 - Developing clean, maintainable, and reusable code
 
----
-
-### Projects
-
-- **[ArchiveDesk](ARCHIVEDESK_REPOSITORY_URL)**  
-  A released desktop application for organizing and managing archived files.  
-  `Add your ArchiveDesk technologies here` · [Download release](ARCHIVEDESK_RELEASE_URL)
-
-- **[Ansible Nginx Setup](https://github.com/AlexKav47/ansible-nginx-setup)**  
-  An idempotent Ansible playbook that installs Nginx, deploys a custom webpage, and verifies the deployment.  
-  `Ansible` · `YAML` · `Jinja2` · `Nginx` · `GitHub Actions`
 ---
 
 ### Connect with Me
