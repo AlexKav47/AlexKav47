@@ -10,19 +10,39 @@
 
 ### About Me
 
-* Currently working as an **Intern at Walton Institute**
-* Background in **Information Technology Management**
-* Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
-* Currently improving my skills in **Python, Docker, Flask, React, AWS, Go, Linux**
+- Currently working as an **Intern at Walton Institute**
+- Background in **Information Technology Management**
+- Interested in **Cloud Computing, DevOps, Web Development, Databases, Cybersecurity, and Software Development**
+- Currently improving my skills in **Python, Docker, Ansible, Flask, React, AWS, Go, and Linux**
+
+---
+
+### Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,ansible,flask,react,aws,go,linux,git,github,vscode" alt="Skills and technologies" />
+</p>
 
 ---
 
 ### Current Focus
 
-* Building practical experience in a professional research and development environment
-* Improving my full-stack development skills
-* Learning more about backend integration, APIs, and deployment workflows
-* Developing clean, maintainable, and reusable code
+- Building practical experience in a professional research and development environment
+- Improving my full-stack development skills
+- Learning more about backend integration, APIs, and deployment workflows
+- Developing clean, maintainable, and reusable code
+
+---
+
+### Featured Projects
+
+#### [Ansible Nginx Setup](https://github.com/AlexKav47/ansible-nginx-setup)
+
+[![Ansible Lint](https://github.com/AlexKav47/ansible-nginx-setup/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/AlexKav47/ansible-nginx-setup/actions/workflows/ansible-lint.yml)
+
+An idempotent Ansible playbook that installs Nginx, deploys a custom Jinja webpage, manages the service, and verifies that the website responds successfully.
+
+**Technologies:** Ansible · YAML · Jinja2 · Nginx · Linux · GitHub Actions
 
 ---
 
@@ -39,11 +59,3 @@
 </p>
 
 ---
-
-### Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,javascript,html,css,python,flask,rust,go,docker,linux,aws,java,c,mysql,git,github,vscode,blender,godot," />
-  </a>
-</p>
